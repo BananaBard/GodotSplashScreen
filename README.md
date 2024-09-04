@@ -1,3 +1,5 @@
 ### Godot splash screen
 
-Contain a .mp4 version and a .ogx to be able to use it in Godot as a video file.
+Splash screen video with the Godot engine logo customized by Kenny.
+
+Available in .mp4 and .ogv, there is a version with sound and one without it.
